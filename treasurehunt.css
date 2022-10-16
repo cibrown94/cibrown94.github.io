@@ -1,0 +1,32 @@
+body{
+  font-family: fantasy;
+  color: white;
+  font-weight: bolder;
+  background-image: url("https://image-cdn.neatoshop.com/styleimg/78639/none/black/default/398385-20;1537869482y.jpg");
+background-position: center;
+background-size: cover;
+text-align: center;
+background-color: white;
+}
+
+h1, ol{
+  font-weight: bold;
+}
+
+h1{
+  border-style: outset;
+  border-width: 4px;
+  border: 1px solid pink;
+}
+table {
+  margin: auto;
+}
+
+.ol {
+  margin: auto;
+}
+button:hover {
+ color: antiquewhite;
+ background-color: #105410;
+ font-size: 30px;
+}
